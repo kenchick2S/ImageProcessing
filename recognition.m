@@ -1,5 +1,4 @@
 % 車牌辨識
-% 李畤廣、陳郁柔、鄭宇恒
 clear;clc;close all;
 img = imread('0409VJ.jpg');
 % figure
